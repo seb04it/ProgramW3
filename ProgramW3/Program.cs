@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Witaj, podróżniku! Jestem prostym programem napisanym przez Sebe :]");
